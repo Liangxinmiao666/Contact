@@ -1,2 +1,1 @@
-# desktop-tutorial
-GitHub Desktop tutorial repository
+这个是一个通讯录
